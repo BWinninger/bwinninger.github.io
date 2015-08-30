@@ -1,0 +1,48 @@
+.starter-template {
+  padding: 125px 20px;
+  text-align: center;
+}
+
+.jumbotron {
+	color:white;
+	background:rgba(0,0,0,0.5);
+}
+
+#biotron {
+	color:rgb(153, 255, 51);
+	background:rgba(0,0,0,0);
+}
+
+#work {
+   color:rgb(0,153,204);
+}
+
+#center {
+	padding: 40px 15px;
+	text-align:center;
+}
+
+#mail {
+	color:rgb(255, 204, 0);
+}
+
+
+#landing {
+	background:url("http://www.wallpaperseries.com/files/today/Abstract%20Chess%20Wallpaper.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+#bio {
+	background:url("http://forums.macrumors.com/attachments/gator-ipad-walpaper2-jpg.344963/") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#work {
+	background:url("http://www.wallpaperdisk.com/wallpapers/Software-and-Operating-system/operating%20system%20vista%20(4).jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#contact {
+	background:url("http://www.josic.com/wp-content/uploads/email-marketing-services.jpg") no-repeat center center fixed;
+	background-size: cover;	
+}
